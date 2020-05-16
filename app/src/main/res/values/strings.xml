@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Salão do Automovel</string>
+    <string name="potencia">Potência</string>
+    <string name="fabricacao">Fabricação</string>
+    <string name="carro_wallpaper">carro_wallpaper</string>
+    <string name="modelo">Modelo</string>
+</resources>
